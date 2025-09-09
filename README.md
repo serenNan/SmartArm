@@ -8,6 +8,8 @@
 
 [奥比中光摄像头淘宝链接](https://item.taobao.com/item.htm?id=807371649049&pisk=gNpszX2HBP4_qARR1toUFXCCXBWXlDkzHosvqneaDOBOkoTpDGeAMGIdvgIAksQqsE1XuefvQO-wRZT22C8NQskvdiSuWrBYBWHd2i1vuZ-ajBYy2RJZstyfItXxz4krU5-GntLpzx2_SJI5XxSYBiBGphxRGikrUhxQbGnyvYJVV9MNYSevk1CLvGbdX5Cvk9KdmweODRBAJDscJtIOWGBLJGjAkGBvkkKd2i4OXiQxpHIlftQvktnBvwjfHZLAHDtKwsVCcx_9f06foD88-MxOR-evCxf1PCP4h-ThX1TkXwteYps11aCxv49XBe-vQdfnOWBDYQTXMU3U_Nd5Ve1y14w6PFjvPOJUWDBAMBRP1BgThwJNc_BAOoevA9RCGp6-eysH9hRvIFZbHGvwUs_lOmecg9pPwQL_m0xdBiLcZKuuINKvqLAPFAalfBK5dgz3Ua9TRSZCZ-sCzDiQiS4W7ovRU7bn41IhfgoIAPZG6MjCzDiQiSfOxMyrADa_j&spm=a1z10.5-c-s.w4002-16718678529.11.753a491fd3C6ly)
 
+[git使用教程](Documents/git使用教程/git使用教程.md)
+
 ## 任务
 
 - [ ] 语音功能
